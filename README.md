@@ -3,9 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a https://github.com/ayushd1108/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf 
+    **1.** Create a [customer performance report](https://github.com/ayushd1108/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf). 
 
-    **2.** Conduct a comprehensive comparison between https://github.com/ayushd1108/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf
+    **2.** Conduct a comprehensive comparison between [market performance vs sales target](https://github.com/ayushd1108/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf).
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
